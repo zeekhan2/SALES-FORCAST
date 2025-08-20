@@ -1,24 +1,26 @@
-# Sales Forecasting and Supplier Performance Analysis
+# Sales Forecasting & Supplier Analysis Dashboard
 
-This project analyzes **warehouse and retail sales data** to explore supplier performance, demand & supply balance, and time-series forecasting.
+## Project Overview
+This project uses **Power BI** to analyze warehouse and retail sales data.  
+It provides insights into supplier performance, demand vs. supply balance, and forecasts future sales.
 
-## 📊 Project Overview
-1. **Supplier Performance**
-   - Identifies top and underperforming suppliers using Pareto and bar charts.
-2. **Demand & Supply Balance**
-   - Compares Warehouse Sales, Retail Sales, and Retail Transfers to identify bottlenecks.
-3. **Forecasting**
-   - Uses time-series forecasting (Power BI) to predict next month's sales.
+## Key Features
+- **Warehouse vs. Retail Sales** – Compare yearly and monthly trends.  
+- **Supplier Performance** – Identify top and underperforming suppliers.  
+- **Demand & Supply Balance** – Track sales and transfers across supply chain.  
+- **Time-Series Forecasting** – Predict future sales trends.  
 
-## 📂 Files Included
-- `README.md` → Project documentation.
+## Dashboard Preview
+![Dashboard Screenshot](REPORT.PNG)
 
-## 🛠️ Tools Used
-- **Power BI** → Dashboards, charts, and forecasting.
-- **Python (optional)** → Data cleaning and preprocessing.
+## Tools Used
+- Microsoft Power BI  
+- Dataset: Warehouse & Retail Sales (CSV)  
 
-## 👤 Author
-Zeeshan Mumtaz
+## Insights
+- Warehouse sales significantly exceed retail sales.  
+- A few suppliers contribute the majority of sales.  
+- Some suppliers are consistently underperforming.  
+- Forecasting highlights potential sales trends for decision-making.  
 
 ---
-This project is ready to be uploaded directly to GitHub.
