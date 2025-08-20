@@ -21,6 +21,10 @@ It provides insights into supplier performance, demand vs. supply balance, and f
 - Warehouse sales significantly exceed retail sales.  
 - A few suppliers contribute the majority of sales.  
 - Some suppliers are consistently underperforming.  
-- Forecasting highlights potential sales trends for decision-making.  
+- Forecasting highlights potential sales trends for decision-making.
+
+## Author
+**ZEESHAN MUMTAZ**
+  
 
 ---
